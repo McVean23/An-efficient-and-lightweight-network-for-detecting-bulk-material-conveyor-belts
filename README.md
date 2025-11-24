@@ -8,4 +8,6 @@ Due to time constraints, we have currently uploaded the automatic annotation scr
 
 After setting up the YOLOv8 environment, you can modify the model’s head code and the corresponding YAML configuration file to perform training.
 
+2025-11-24 TensorRT model uploaded, quantized, and ready for fast GPU inference.
+
 If you have any questions, feel free to leave a comment or start a discussion!
